@@ -12,5 +12,5 @@ Language's I know:
 Languages i'm working on:
 <code><img height="64" src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg"></code>
 
-! [Aidan Kametz GitHub statistics](https://github-readme-stats.vercel. app/api?
-username=SiIver-L&show icons=true&hide rank=true&&count private=true&theme=dark)
+<code>! [Aidan Kametz GitHub statistics](https://github-readme-stats.vercel. app/api?
+username=SiIver-L&show icons=true&hide rank=true&&count private=true&theme=dark)<code>
