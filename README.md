@@ -5,7 +5,7 @@ im a student
 
 [![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat&logo=twitter&logoColor=white)](https://twitter.com/SiIverAidan)
 
-_All the projects here are hobby projects and they should not represent my skillset._
+_All the projects here are hobby projects._
 
 Language's I know:
 
