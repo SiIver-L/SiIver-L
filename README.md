@@ -12,6 +12,12 @@ Language's I know:
 
 <code><img height="64" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"></code>
 <code><img height="64" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg"></code>
+<code><img height="64" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javas-original.svg"></code>
+<code><img height="64" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/html-original.svg"></code>
+<code><img height="64" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/css-original.svg"></code>
+<code><img height="64" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/python-original.svg"></code>
+
+
 
 Languages i'm working on:
 
