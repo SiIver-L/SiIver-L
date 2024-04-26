@@ -12,10 +12,10 @@ Language's I know:
 
 <code><img height="64" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"></code>
 <code><img height="64" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg"></code>
-<code><img height="64" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javas-original.svg"></code>
-<code><img height="64" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/html-original.svg"></code>
-<code><img height="64" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/css-original.svg"></code>
-<code><img height="64" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/python-original.svg"></code>
+<code><img height="64" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg"></code>
+<code><img height="64" src="https://github.com/devicons/devicon/blob/master/icons/html/html-original.svg"></code>
+<code><img height="64" src="https://github.com/devicons/devicon/blob/master/icons/css/css-original.svg"></code>
+<code><img height="64" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg"></code>
 
 
 
