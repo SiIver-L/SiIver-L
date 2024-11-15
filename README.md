@@ -1,7 +1,7 @@
 ### Hi there 👋
 I'm Aidan,
 i code sometimes.
-im 16 years old
+im 17 years old
 im a student
 
 [![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat&logo=twitter&logoColor=white)](https://twitter.com/SiIverAidan)
