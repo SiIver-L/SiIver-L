@@ -6,9 +6,9 @@ im a student
 
 [![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat&logo=twitter&logoColor=white)](https://twitter.com/SiIverAidan)
 
-_All the projects here are hobby projects._
+_All the projects here are hobby projects or for school._
 
-Language's I know:
+Languages I know:
 
 <code><img height="64" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg"></code>
 <code><img height="64" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg"></code>
